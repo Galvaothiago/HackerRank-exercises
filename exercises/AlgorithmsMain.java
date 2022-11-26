@@ -1,6 +1,6 @@
 package exercises;
 
-import exercises.implementation.NumberLineJump;
+import exercises.implementation.NumberLineJump.NumberLineJump;
 
 public class AlgorithmsMain {
 	public static void main(String[] args) {

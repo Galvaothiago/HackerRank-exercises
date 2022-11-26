@@ -1,4 +1,4 @@
-package exercises.implementation;
+package exercises.implementation.NumberLineJump;
 
 public class NumberLineJump {
 	
